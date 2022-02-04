@@ -1,7 +1,7 @@
 body {
     margin: 0px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: #F2FFFA;
+    background-color: #F6EEF0;
 }
 
 ul {
@@ -9,9 +9,10 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #323B37;
+    background-color: #4C3D40;
     display: flex;
     font-size: 2.5vh;
+    color: #312C33;
 }
 
   
